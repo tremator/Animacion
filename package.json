@@ -1,0 +1,9 @@
+{
+  "name": "practica",
+  "version": "0.0.0",
+  "description": "practica",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
